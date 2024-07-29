@@ -2,7 +2,7 @@ version: '3.8'
 
 services:
   app:
-    image: srk14/springbootapplication
+    image: shivaramakrishna14/springbootapplication
     build:
       context: .
       dockerfile: Dockerfile
